@@ -8,6 +8,7 @@ logpush = false
 compatibility_date = "2023-03-21"
 send_metrics = false
 minify = false
+upload_source_maps = true
 
 [build]
 command = "npm run build"
